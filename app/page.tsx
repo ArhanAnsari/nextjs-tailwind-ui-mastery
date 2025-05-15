@@ -68,12 +68,12 @@ export default function HomePage() {
       <motion.section initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.8, duration: 1 }} className="mt-24 max-w-4xl mx-auto text-center">
         <h3 className="text-3xl font-semibold mb-4">Why This Stack?</h3>
         <p className="text-base text-gray-700 dark:text-sky-100/80">
-          Next.js 15 gives you flexibility and performance, Tailwind CSS handles styling with ease, and Framer Motion brings your UI to life. Whether you're building a landing page, portfolio, or SaaS dashboard — this combo sets you up for success.
+          Next.js 15 gives you flexibility and performance, Tailwind CSS handles styling with ease, and Framer Motion brings your UI to life. Whether you&apos;re building a landing page, portfolio, or SaaS dashboard — this combo sets you up for success.
         </p>
       </motion.section>
 
       <motion.section initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1.2, duration: 1 }} className="mt-24 max-w-5xl mx-auto text-center">
-        <h3 className="text-3xl font-semibold mb-4">What You'll Learn</h3>
+        <h3 className="text-3xl font-semibold mb-4">What You&apos;ll Learn</h3>
         <ul className="space-y-3 text-left list-disc list-inside text-gray-800 dark:text-sky-100/90">
           <li>✅ How to structure a Next.js 15 app with the new app directory</li>
           <li>✅ Configure and theme Tailwind CSS effectively</li>
