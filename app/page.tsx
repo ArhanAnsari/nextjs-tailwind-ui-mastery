@@ -85,6 +85,9 @@ export default function HomePage() {
           <li>✅ Use Lucide icons for modern UI elements</li>
           <li>✅ Creating a GitHub Repo from your IDE</li>
           <li>✅ Deploy your app to Vercel with ease</li>
+          <li>✅ Best practices for building scalable UIs</li>
+          <li>✅ Use TypeScript for better type safety</li>
+          <li>✅ Integrate Vercel Analytics</li>
         </ul>
       </motion.section>
 
