@@ -82,6 +82,9 @@ export default function HomePage() {
           <li>✅ Build beautiful UIs fast using utility-first styling</li>
           <li>✅ Responsive navigation with hamburger menu</li>
           <li>✅ Style switches for dark/light mode toggle</li>
+          <li>✅ Use Lucide icons for modern UI elements</li>
+          <li>✅ Creating a GitHub Repo from your IDE</li>
+          <li>✅ Deploy your app to Vercel with ease</li>
         </ul>
       </motion.section>
 
