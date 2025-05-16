@@ -56,7 +56,7 @@ export default function HomePage() {
           Build sleek, responsive websites with the power of modern frontend tools. Powered by Next.js, styled with Tailwind, animated with Framer Motion.
         </p>
         <a
-          href="https://youtu.be/XXXXXXXXXXXXXXXX"
+          href="https://youtu.be/s66K3hzsMuY?si=s0SiY4ru-lAkZfVp"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 px-6 py-3 rounded-md bg-gradient-to-r from-sky-500 to-indigo-500 text-white hover:opacity-90 transition text-lg font-medium"
